@@ -12,7 +12,7 @@ jobs:
           to_whatsapp_no: ${{ secrets.to_whatsapp_no }}
 
 
-        uses: sivapriya-th/devOpspractice@master
+        uses: sivapriya-th/devOpspractice@main
       
       - name : Run
         run: |
